@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Smart--Web-House%20Price%20Prediction-blueviolet?style=for-the-badge&logo=homeadvisor&logoColor=white" alt="Smart-Web Logo"/>
+  <img src="https://img.shields.io/badge/House Predict%20Price%20Prediction-blueviolet?style=for-the-badge&logo=homeadvisor&logoColor=white" alt="Smart-Web Logo"/>
 </p><h1 align="center">XGBoost</h1>
 <h3 align="center">Intelligent House Price Prediction for King County, Seattle</h3><p align="center">
   <img src="https://img.shields.io/badge/XGBoost-ML-orange?style=flat-square&logo=githubactions&logoColor=white">
