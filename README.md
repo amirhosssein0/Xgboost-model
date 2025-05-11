@@ -1,8 +1,11 @@
-<div align="center"><img src="https://your-banner-link.com/banner.png" alt="King County House Price Prediction" width="800"/>King County House Price Prediction
-
-Built with XGBoost & RandomizedSearchCV
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Smart--Web-House%20Price%20Prediction-blueviolet?style=for-the-badge&logo=homeadvisor&logoColor=white" alt="Smart-Web Logo"/>
+</p><h1 align="center">XGBoost</h1>
+<h3 align="center">Intelligent House Price Prediction for King County, Seattle</h3><p align="center">
+  <img src="https://img.shields.io/badge/XGBoost-ML-orange?style=flat-square&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Accuracy-90%25-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square">
+</p>
 ---
 
 📖 About the Project
